@@ -18,7 +18,7 @@ play-services-ads = { module = "com.google.android.gms:play-services-ads", versi
 play-update-ktx = { module = "com.google.android.play:app-update-ktx", version = "2.1.0"}
 play-review-ktx = { module = "com.google.android.play:review-ktx", version = "2.0.1"}
 play-integrity = { module = "com.google.android.play:integrity", version = "1.4.0" }
-kotlinx-collections-immutable = { module = "org.jetbrains.kotlinx:kotlinx-collections-immutable", version = "0.3.7" }
+kotlinx-collections-immutable = { module = "org.jetbrains.kotlinx:kotlinx-collections-immutable", version = "0.3.8" }
 leakcanary-android = { module = "com.squareup.leakcanary:leakcanary-android", version = "2.14" }
 
 # Test
